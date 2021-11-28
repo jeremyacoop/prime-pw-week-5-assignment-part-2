@@ -1,17 +1,17 @@
-header {
+.headerclass {
     background-color: darkolivegreen;
     color: blanchedalmond;
     text-align: center;
 }
 
-main {
+.mainclass {
     background-color: lightgrey;
     padding: 1em;
 }
 
 body {
     background-image: url(./record.png);
-    background-repeat: unset;
+    background-repeat: repeat;
     margin: 0%;
     padding: 0%;
 }
